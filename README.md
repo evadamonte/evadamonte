@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I’m a data science enthusiast with a passion for
 - ## Education 🎓
 - **Notre Dame Degree  (coming in 2026) Notre Dame, IN
 - **High School Degree - Bishop Manogue Catholic High School Reno, NV
-- **Resume - https://docs.google.com/document/d/1S5iL3WrXjN5-NgfTV_NXXNC-dMP5qe_g/edit?usp=sharing&ouid=118374376318988041395&rtpof=true&sd=true
+- ** Check out my resume [here](https://docs.google.com/document/d/1S5iL3WrXjN5-NgfTV_NXXNC-dMP5qe_g/edit?usp=sharing&ouid=118374376318988041395&rtpof=true&sd=true).
 
 ## 💼 Technical Skills
 - **Languages**: Python, R.
