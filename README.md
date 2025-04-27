@@ -38,6 +38,43 @@ Check out my Data Science Portfolio(coming soon!) for notable projects.
 - Link to tidy data notebook: https://github.com/evadamonte/DAMONTE-Python-Portfolio/blob/main/TidyData-Project-main/Data_Tidy_Project.ipynb
 ![Medal by Sport](https://github.com/evadamonte/DAMONTE-Python-Portfolio/blob/main/TidyData-Project-main/number_of_medals.png)
 
+# 🧠 DAMONTE Python Portfolio
+
+Welcome to my Python portfolio!  
+This repository highlights my progression through a variety of Python projects, showcasing skills in data analysis, app development, and interactive web app deployment.
+
+---
+
+## 📚 Portfolio Projects
+
+### 1. **Fitness Goal Tracker App (StreamlitAppFinal)**
+
+- **Link to Project:** [Fitness Goal Tracker App](https://github.com/evadamonte/DAMONTE-Python-Portfolio/tree/main/StreamlitAppFinal)
+- **Description:**  
+  The Fitness Goal Tracker is a fully interactive Streamlit app that calculates a user's BMI, estimates daily calorie needs, and provides customized workout and nutrition plans based on personal goals. Users can input personal information, explore results, and download a customized fitness plan.
+
+- **Relation to Field/Domain:**  
+  This app connects my passion for fitness and personal development with technology. It demonstrates how Python can be applied to real-world health and wellness challenges by creating user-focused solutions.
+
+- **How It Complements My Portfolio:**  
+  This app showcases my ability to build interactive Python applications, integrate user input workflows, perform meaningful data analysis (BMI, calorie calculations), and deploy professional-grade apps to the web via Streamlit Community Cloud.
+
+---
+
+## 🛠️ Previous Portfolio Updates
+
+- **Portfolio Update 1:** Repository setup with initial Python projects.
+- **Portfolio Update 2:** Expanded projects with data analysis tasks and Python fundamentals.
+- **Portfolio Update 3:** Enhanced projects with intermediate techniques, including file handling and basic data visualization.
+- **Portfolio Update 4 (Current):** Added an interactive web app deployment using Streamlit, illustrating full-stack project skills.
+
+---
+
+# 🚀 Summary
+
+This portfolio reflects my development as a Python programmer, showcasing skills ranging from core logic to full app deployment. Thank you for exploring my projects!
+
+
 - ## 📫 How to reach me
 - 📧 Email: [edamont2@nd.edu]
 - 🐦 Instagram: [Eva_Damonte]
