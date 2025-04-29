@@ -37,15 +37,10 @@ Check out my Data Science Portfolio(coming soon!) for notable projects.
 - Link to tidy data readme: https://github.com/evadamonte/DAMONTE-Python-Portfolio/blob/main/TidyData-Project-main/README.md
 - Link to tidy data notebook: https://github.com/evadamonte/DAMONTE-Python-Portfolio/blob/main/TidyData-Project-main/Data_Tidy_Project.ipynb
 ![Medal by Sport](https://github.com/evadamonte/DAMONTE-Python-Portfolio/blob/main/TidyData-Project-main/number_of_medals.png)
-
-# 🧠 DAMONTE Python Portfolio
-
-Welcome to my Python portfolio!  
-This repository highlights my progression through a variety of Python projects, showcasing skills in data analysis, app development, and interactive web app deployment.
-
 ---
 
 ## 📚 Portfolio Projects
+##Final Project 
 
 ### 1. **Fitness Goal Tracker App (StreamlitAppFinal)**
 
@@ -66,7 +61,7 @@ This repository highlights my progression through a variety of Python projects, 
 - **Portfolio Update 1:** Repository setup with initial Python projects.
 - **Portfolio Update 2:** Expanded projects with data analysis tasks and Python fundamentals.
 - **Portfolio Update 3:** Enhanced projects with intermediate techniques, including file handling and basic data visualization.
-- **Portfolio Update 4 (Current):** Added an interactive web app deployment using Streamlit, illustrating full-stack project skills.
+- **Portfolio Update 4: Final Project 
 
 ---
 
@@ -84,12 +79,3 @@ This portfolio reflects my development as a Python programmer, showcasing skills
 ## 💖 What I Add
 1. **Professional Bio**:
 I am a junior at the University of Notre Dame studing finance with a minor in computer digital technology and theology. I am an interested student who enjoys real life application and hands on learning. I am from Reno, Nevada (the biggest little city in the world) and I love the outdoors. Catch me skiing both in the mountains and on Lake Tahoe! I enjoy making data come to life and engaging in the visualization process of code. I enjoy taking data that is appealing and summarizing it in a way that is easy for others to stand as well as is accurate as possible. I look forward to creating fun and engaging projects this semester as I continue to grow and expand my skils in python and vs code. 
-   
-2. **Technical Skills**:
-   - Python
-   - R
-   - Leadership
-   - Teamwork
-   - FUN!
-3. **Projects**:
-   - I am really excited to add my projects which will be coming soon!
