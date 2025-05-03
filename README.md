@@ -1,81 +1,75 @@
-
-# Hi, I'm Eva  Damonte Welcome to my Coding Portfolio👋
-
-# I hope you have a great day! 
-
-Welcome to my GitHub profile! I’m a data science enthusiast with a passion for analyzing data and building impactful solutions. Check out my repositories and feel free to connect!
-
-## 📚 About Me
-- 🔭 Currently working on Learning and Mastering Skills in Elements of Computing 2.
-- 🌱 I’m learning how to code more effincetly and effectivly using tools like python and VS code.
-- 👯 I’m looking to collaborate on food reviews as well as sports analytics.
-- 💬 Ask me about data science, Python, machine learning, or anything tech-related!
-- 📫 How to reach me: edamont2@nd.edu
-- 🐮 Fun Fact: I grew up on a ranch in Reno, NV 
-- ## Education 🎓
-- **Notre Dame Degree  (coming in 2026) Notre Dame, IN
-- **High School Degree - Bishop Manogue Catholic High School Reno, NV
-- ** Check out my resume [here](https://docs.google.com/document/d/1S5iL3WrXjN5-NgfTV_NXXNC-dMP5qe_g/edit?usp=sharing&ouid=118374376318988041395&rtpof=true&sd=true).
-
-## 💼 Technical Skills
-- **Languages**: Python, R.
-- **Libraries & Frameworks**: Pandas, NumPy, Sea Born
-- **Data Visualization**: Matplotlib, Seaborn.
-- **Databases**: MySQL
-- **Tools & Platforms**: GitHub, Jupyter Notebooks
-
-## 🌟 Projects
-Check out my Data Science Portfolio(coming soon!) for notable projects.
-
-- Cool Coffee - (South Bend Coffee Shop Reviews): coming soon :) 
-- Womens and Male sporting event Attendance- (Sports Analytics Project ): Comming Soon :)
-- Who going to mass - (Dorm Data): Comming soon :)
-- Data Science Portfolio : https://github.com/evadamonte/DAMONTE-Python-Portfolio
-## Tidy Data Project 🫧🛀🏼🧼 : 
-- Project Overview: In my tidy data project, there is a transforming of a dataset. I am using the 2008 Olumpic medalist data set which has many missing values and is untidy. In my project, I reshaped the data from a wide to long format, as well as create seperate columsnb for the main variables in the data set which are gender, sports, as well as the metal recieved. After all of the data cleaning, I was able to create a clear and concise dataset that is easy to underatand. I also created multiple visulizations so that you can clearly see the data and its conenctions!
-- Link to my tidy data repository: https://github.com/evadamonte/DAMONTE-Python-Portfolio/tree/main/TidyData-Project-main
-- Link to tidy data readme: https://github.com/evadamonte/DAMONTE-Python-Portfolio/blob/main/TidyData-Project-main/README.md
-- Link to tidy data notebook: https://github.com/evadamonte/DAMONTE-Python-Portfolio/blob/main/TidyData-Project-main/Data_Tidy_Project.ipynb
-![Medal by Sport](https://github.com/evadamonte/DAMONTE-Python-Portfolio/blob/main/TidyData-Project-main/number_of_medals.png)
----
-
-## 📚 Portfolio Projects
-##Final Project 
-
-### 1. **Fitness Goal Tracker App (StreamlitAppFinal)**
-
-- **Link to Project:** [Fitness Goal Tracker App](https://github.com/evadamonte/DAMONTE-Python-Portfolio/tree/main/StreamlitAppFinal)
-- **Description:**  
-  The Fitness Goal Tracker is a fully interactive Streamlit app that calculates a user's BMI, estimates daily calorie needs, and provides customized workout and nutrition plans based on personal goals. Users can input personal information, explore results, and download a customized fitness plan.
-
-- **Relation to Field/Domain:**  
-  This app connects my passion for fitness and personal development with technology. It demonstrates how Python can be applied to real-world health and wellness challenges by creating user-focused solutions.
-
-- **How It Complements My Portfolio:**  
-  This app showcases my ability to build interactive Python applications, integrate user input workflows, perform meaningful data analysis (BMI, calorie calculations), and deploy professional-grade apps to the web via Streamlit Community Cloud.
+# 👋 Eva Damonte  
+**Aspiring Data-Focused Technologist | Finance & Digital Tech @ University of Notre Dame**  
+📍 Reno, NV | 🎓 Class of 2026 | 💻 Python • Streamlit • Data Visualization
 
 ---
 
-## 🛠️ Previous Portfolio Updates
+## 💼 Professional Summary
 
-- **Portfolio Update 1:** Repository setup with initial Python projects.
-- **Portfolio Update 2:** Expanded projects with data analysis tasks and Python fundamentals.
-- **Portfolio Update 3:** Enhanced projects with intermediate techniques, including file handling and basic data visualization.
-- **Portfolio Update 4: Final Project 
+I’m a junior at the University of Notre Dame majoring in Finance with minors in Digital Technology and Theology. My passion lies in leveraging code to create impactful, intuitive solutions—especially in areas like personal wellness, education, and community development. I thrive at the intersection of technical precision and human-centered design.
 
 ---
 
-# 🚀 Summary
+## 💪 Featured Project: Fitness Goal Tracker
 
-This portfolio reflects my development as a Python programmer, showcasing skills ranging from core logic to full app deployment. Thank you for exploring my projects!
+A fully interactive wellness app that delivers personalized workout and nutrition plans based on user input like BMI, age, and fitness goals. Built using **Streamlit**, the app includes:
 
+- 📋 Dynamic form inputs with validation  
+- 📊 Real-time BMI & calorie analysis  
+- 🏋️ Adaptive workout plans (home, gym, outdoor)  
+- 🍽️ Nutrition plan with recipe links  
+- 🎵 Spotify workout playlists and motivational YouTube videos  
+- 📄 Downloadable summary report  
 
-- ## 📫 How to reach me
-- 📧 Email: [edamont2@nd.edu]
-- 🐦 Instagram: [Eva_Damonte]
-- 🔗 LinkedIn: [www.linkedin.com/in/eva-damonte]
+🔗 [Live App](https://evadamonte-ofqmom4cvvps7fdhkyfvgn.streamlit.app/)  
+📁 [GitHub Repository](https://github.com/evadamonte/DAMONTE-Python-Portfolio/tree/main/StreamlitAppFinal)
 
 ---
-## 💖 What I Add
-1. **Professional Bio**:
-I am a junior at the University of Notre Dame studing finance with a minor in computer digital technology and theology. I am an interested student who enjoys real life application and hands on learning. I am from Reno, Nevada (the biggest little city in the world) and I love the outdoors. Catch me skiing both in the mountains and on Lake Tahoe! I enjoy making data come to life and engaging in the visualization process of code. I enjoy taking data that is appealing and summarizing it in a way that is easy for others to stand as well as is accurate as possible. I look forward to creating fun and engaging projects this semester as I continue to grow and expand my skils in python and vs code. 
+
+## 🧠 Technical Skills
+
+| Area                 | Tools & Technologies                                         |
+|----------------------|--------------------------------------------------------------|
+| Languages            | Python, R                                                    |
+| Libraries & Frameworks | pandas, NumPy, spaCy, matplotlib, seaborn, Streamlit        |
+| Tools & Platforms    | GitHub, VS Code, Jupyter Notebook                            |
+| Soft Skills          | Problem-solving, collaboration, creativity, user empathy     |
+
+---
+
+## 📂 Portfolio Projects
+
+Explore more in my main repository:  
+📁 [DAMONTE-Python-Portfolio](https://github.com/evadamonte/DAMONTE-Python-Portfolio)
+
+Other highlights include:
+
+- 🧠 **NER App:** Custom entity extraction tool using spaCy and Streamlit  
+- 🧼 **Olympics Tidy Data Project:** Cleaned and reshaped medalist dataset with exploratory visualizations  
+- ☕ **Coffee Shop Reviews (Coming Soon):** South Bend café insights through user sentiment and data storytelling  
+- 🏟️ **Sports Attendance Trends (Coming Soon)**  
+- 🙏 **Campus Faith Analytics (Coming Soon)**
+
+---
+
+## 🎓 Education
+
+**University of Notre Dame**  
+B.B.A. in Finance | Minor in Digital Technology & Theology  
+2022 – 2026
+
+**Bishop Manogue Catholic High School**  
+Reno, NV
+
+---
+
+## 📫 Contact
+
+- ✉️ Email: [edamont2@nd.edu](mailto:edamont2@nd.edu)  
+- 🔗 LinkedIn: [linkedin.com/in/eva-damonte](https://www.linkedin.com/in/eva-damonte)  
+- 📸 Instagram: [@eva_damonte](https://www.instagram.com/eva_damonte)
+
+---
+
+> *“Making data more human: clean, visual, and interactive.”*
+
